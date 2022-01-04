@@ -327,5 +327,6 @@ html, body{
     .calendar-zile div{
         width: 2rem;
         height: 2.2rem;
+        color: #141529;
     }
 }
