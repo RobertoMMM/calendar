@@ -323,5 +323,6 @@ html, body{
     .calendar{
         width: 90%;
         /* height: 90%; */
+        font-family: var(--font-family);
     }
 }
