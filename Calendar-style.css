@@ -322,7 +322,9 @@ html, body{
 @media(max-width:450px){
     .calendar{
         width: 90%;
-        /* height: 90%; */
         font-family: var(--font-family);
+    }
+    .calendar-zile div{
+        width: 2.1rem;
     }
 }
