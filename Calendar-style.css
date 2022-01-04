@@ -98,7 +98,7 @@ html, body{
     display: grid;
     grid-template-columns: repeat(7, 1fr);
     gap:.125rem;
-    color: var(--color-text);
+    color: #141529;
 }
 
 .calendar-zile div{
@@ -327,6 +327,5 @@ html, body{
     .calendar-zile div{
         width: 2rem;
         height: 2.2rem;
-        color: #141529;
     }
 }
