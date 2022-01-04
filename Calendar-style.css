@@ -325,7 +325,7 @@ html, body{
         font-family: var(--font-family);
     }
     .calendar-zile div{
-        width: 2.5rem;
+        width: 2rem;
         height: 2.2rem;
     }
 }
