@@ -321,7 +321,7 @@ html, body{
 
 @media(max-width:450px){
     .calendar{
-        width: 110%;
+        width: 100%;
         font-family: var(--font-family);
     }
     .calendar-zile div{
