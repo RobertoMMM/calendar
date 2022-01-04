@@ -1,4 +1,5 @@
 //Dark mode
+//hello
  document.querySelector('.dark-mod-schimba').onclick = () => {
      document.querySelector('body').classList.toggle('dark')
      document.querySelector('body').classList.toggle('light')
