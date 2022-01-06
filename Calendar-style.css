@@ -91,7 +91,7 @@ html, body{
 .calendar-saptamina-ziua div{
     display: grid;
     place-items: center;
-    color: var(--bg-second);
+    color: var(--color-text);
 }
 
 .calendar-zile{
